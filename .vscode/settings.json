@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\ethan\\Downloads\\JAVAsetupICS3U1\\core.jar"
+    ]
+}
